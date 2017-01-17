@@ -1,57 +1,45 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Glenn Galvizo", 
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "picture": "-----------------------------------",
+    "email": "glennga@hawaii.edu",
+    "phone": "808-389-9861",
+    "website": "https://glennga.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences, and a minor in Mathematics at the University of Hawaii. I expect to graduate in Fall, 2018.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "94-844 Lelepua Street Apartment 21A",
+      "postalCode": "96797",
+      "city": "Waipahu",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "glennga",
+        "url": "http://github.com/glennga"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "glennga",
+        "url": "http://linkedin.com/in/glennga"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "data analysis",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "astronomy",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "machine learning",
       "keywords": [
       ]
     }
@@ -65,42 +53,58 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Common Lisp",
+        "Python",
+        "Matlab",
+        "Bash",
+        "DOS",
+        "SQL"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
         "Ubuntu",
+        "LaTeX",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "g++"
       ]
     }
   ],
   "education": [
+        {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Liberal Arts",
+      "studyType": "A.A.",
+      "startDate": "2014-08-25",
+      "endDate": "2015-12-19",
+      "gpa": "4.0",
+      "courses": [ "ICS 111", "ICS 141", "ICS 211", "ICS 241",
+                   "MATH 241", "MATH 242", "MATH 243", "MATH 244",
+                   "PHYS 170", "PHYS 170L", "PHYS 272", "PHYS 272L"
+      ]
+    }
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2016-09-01",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
+      "courses": ["ICS 212", "ICS 311", "ICS 313", "ICS 314", "ICS 499",
+                  "ASTR 241", "EE 213", "EE 296", "MATH 305"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Hawaii Space Flight Laboratory",
+      "position": "High Level Software Intern",
+      "website": "http://www.hsfl.hawaii.edu/",
+      "startDate": "2015-03-01",
+      "endDate": "2016-08-01",
+      "summary": "High level student lead for NMSR and star tracker project",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
