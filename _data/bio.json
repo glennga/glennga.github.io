@@ -79,7 +79,7 @@
       "studyType": "B.S.",
       "startDate": "2016-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.91",
       "courses": ["Algorithms",
                   "Program Structure",
                   "Programming Language Theory",
@@ -95,7 +95,7 @@
       "endDate": "2015-12-19",
       "gpa": "4.0",
       "courses": [ "Introduction to Computer Science I-II", 
-                   "Discrete Mathematics for Computer Science I-II"
+                   "Discrete Mathematics for Computer Science I-II",
                    "Calculus I-IV"
       ]
     }
