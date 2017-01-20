@@ -2,7 +2,7 @@
   "basics": {
     "name": "Glenn Galvizo", 
     "label": "Student",
-    "picture": "https://raw.githubusercontent.com/glennga/glennga.github.io/master/images/IMG_5765%20-%20Edited.jpg",
+    "picture": "https://glennga.github.io/images/profile-image.jpg",
     "email": "glennga@hawaii.edu",
     "phone": "808-389-9861",
     "website": "https://glennga.github.io",
@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "data analysis",
+      "name": "inferential statistics",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "algorithms",
       "keywords": [
       ]
     },
     {
       "name": "astronomy",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "machine learning",
       "keywords": [
       ]
     }
@@ -73,18 +73,6 @@
     }
   ],
   "education": [
-        {
-      "institution": "Leeward Community College, Pearl City, HI",
-      "area": "Liberal Arts",
-      "studyType": "A.A.",
-      "startDate": "2014-08-25",
-      "endDate": "2015-12-19",
-      "gpa": "4.0",
-      "courses": [ "ICS 111", "ICS 141", "ICS 211", "ICS 241",
-                   "MATH 241", "MATH 242", "MATH 243", "MATH 244",
-                   "PHYS 170", "PHYS 170L", "PHYS 272", "PHYS 272L"
-      ]
-    },
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Fall, 2018)",
@@ -92,8 +80,23 @@
       "startDate": "2016-09-01",
       "endDate": "Present",
       "gpa": "",
-      "courses": ["ICS 212", "ICS 311", "ICS 313", "ICS 314", "ICS 499",
-                  "ASTR 241", "EE 213", "EE 296", "MATH 305"
+      "courses": ["Algorithms",
+                  "Program Structure",
+                  "Programming Language Theory",
+                  "Probabilistic Models",
+                  "Software Engineering I"
+      ]
+    },
+        {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Liberal Arts",
+      "studyType": "A.A.",
+      "startDate": "2014-08-25",
+      "endDate": "2015-12-19",
+      "gpa": "4.0",
+      "courses": [ "Introduction to Computer Science I-II", 
+                   "Discrete Mathematics for Computer Science I-II"
+                   "Calculus I-IV"
       ]
     }
   ],
@@ -104,65 +107,55 @@
       "website": "http://www.hsfl.hawaii.edu/",
       "startDate": "2015-03-01",
       "endDate": "2016-08-01",
-      "summary": "High level student lead for NMSR and star tracker project",
+      "summary": "Lead High level software student portions for NMSR and star tracker project",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "University of Hawaii Information and Computer Sciences",
+      "position": "Assistant Computer Technician",
+      "website": "http://www.ics.hawaii.edu/",
+      "startDate": "2016-09-07",
+      "endDate": "Present",
+      "summary": "Manage lab machines for ICS department",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Troubleshoot software, hardware and networking issues for computer labs",
+        "Answer phone and email responses for ICS Help Desk"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Hawaii FIRST Tech Challenge",
+      "website": "http://www.firstinspires.org/robotics/ftc",
+      "position": "Referee",
+      "startDate": "2014-10-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Ensure game is played in fair and consistent manner",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Arnold Air Society",
+      "website": "https://manoa.hawaii.edu/undergrad/aerospace/join-our-clubs/",
+      "position": "Support Officer / Information Management Officer",
+      "startDate": "2014-09-01",
+      "endDate": "2015-12-01",
+      "summary": "Managed minutes and information regarding our meetings and community service events",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Cadet 4th Class of the Month",
+      "date": "2014-October",
+      "awarder": "Detachment 175 Air Force Reserve Officer Training Corps",
+      "summary": "Surpass peers in drill and warrior knowledge in a board enviroment."
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
