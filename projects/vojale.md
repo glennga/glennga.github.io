@@ -9,7 +9,7 @@ labels:
   - Geometry
   - Astronomy
   - Python
-summary: Research toward geometrically matching stars in an image without sky reference to an star catalog.
+summary: Research toward geometrically matching stars in an image without sky reference to a star catalog.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/eid-5err.png">
