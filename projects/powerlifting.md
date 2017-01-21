@@ -12,7 +12,7 @@ summary: Personal programming, technique, and diet for competitive powerlifting.
 
 <img class="ui medium right floated rounded image" src="../images/deadlift.jpg">
 
-Powerlifting is a competition sport that involves three attempts at a proper *squat*, *bench*, and *deadlift*. The competitor's heaviest sucessful attempts for each different lift contributes to a total. The goal is to have the highest total in their respective weight/age/gender class. 
+Powerlifting is a competition sport that involves three attempts at a proper *squat*, *bench*, and *deadlift*. The competitor's heaviest sucessful attempts for each different lift contributes to a total. The goal is to have the highest total in your respective weight/age/gender class. 
 
 It may seem like there isn't much to the sport, but there is a lot of science behind this type of training. Personal leverages, when to active muscles, strength tapering, mental focus and diet are some of the few variables involved here. I started training competitively in 2015, and have been going to the gym with this goal in mind ever since. 
 
@@ -29,7 +29,7 @@ Technique is a huge part of what I constantly analyze. Below are my current thou
 
 I have a set of procedures for each different lift, as well as logs detailing changes to the procedures. In addition to this, I have logs detailing my diet and my programming. The goal is to lift more weight here, and a scientific approach to understanding how I lift under different variables will help me achieve this goal.
 
-Powerlifting has really shaped me into who I am today. I've learned to develop a good base of information before building upward. I've learned to treat every failure as a lesson. I've learned that life is a marathon, not a sprint. I've learned a lot over the years, and know that I have much more to learn. 
+Powerlifting has really shaped me into who I am today. I've learned to develop a good base of information before building upward. I've learned to treat every failure as a lesson. I've learned that life is a marathon, not a sprint. I've learned a lot over the years, and I know that I have much more to learn. 
 
 For more information regarding the science behind powerlifting, [Strengtheory](http://strengtheory.com/) is a great resource.
 
