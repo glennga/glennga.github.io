@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/bsc5-plot.png
+image: images/bsc5-plot.jpg
 title: Vojale
 permalink: projects/vojale
 date: 2016
@@ -14,9 +14,9 @@ summary: Research toward geometrically matching stars in an image without sky re
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/cid-no-rotate.jpg">
-  <img class="ui image" src="../images/cid-left-45-rotate.jpg">
   <img class="ui image" src="../images/fov-vs-sgll.jpg">
   <img class="ui image" src="../images/45-45-90.jpg">
+  <img class="ui image" src="../images/cid-left-45-rotate.jpg">
 </div>
 
 Given an image of the sky without a point of reference (i.e. accelerometer or magnetometer input), is it possible to accurately and efficiently identify the stars in this image? The research here is an attempt to solve this problem, and is an extension of my previous Hawaii Space Flight Laboratory star tracker project. The application of this problem lies with estimating attitude for spacecraft. If the stars in an image are known, then an attitude can be derived from an inertial frame. Now knowing which direction the craft is pointing, sensors, solar panels, and propulsion devices can be adjusted appropriately. 
