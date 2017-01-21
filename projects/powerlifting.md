@@ -3,8 +3,8 @@ layout: project
 type: project
 image: images/deadlift.jpg
 title: Powerlifting Analysis
-permalink: projects/powerlifting-analysis
-date: 2015-present
+permalink: projects/powerlifting
+date: 2015
 labels:
   - Powerlifting
 summary: Personal programming, technique, and diet for competitive powerlifting.
