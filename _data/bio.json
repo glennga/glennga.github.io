@@ -80,11 +80,12 @@
       "startDate": "2016-09-01",
       "endDate": "Present",
       "gpa": "3.91",
-      "courses": ["Algorithms",
-                  "Program Structure",
+      "courses": ["Software Engineering I",
                   "Programming Language Theory",
                   "Probabilistic Models",
-                  "Software Engineering I"
+                  "Algorithms",
+                  "Astrophysics I",
+                  "Program Structure"
       ]
     },
         {
@@ -102,18 +103,6 @@
   ],
   "work": [
     {
-      "company": "Hawaii Space Flight Laboratory",
-      "position": "High Level Software Intern",
-      "website": "http://www.hsfl.hawaii.edu/",
-      "startDate": "2015-03-01",
-      "endDate": "2016-08-01",
-      "summary": "Lead High level software student portions for NMSR and star tracker project",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
       "company": "University of Hawaii Information and Computer Sciences",
       "position": "Assistant Computer Technician",
       "website": "http://www.ics.hawaii.edu/",
@@ -123,6 +112,18 @@
       "highlights": [
         "Troubleshoot software, hardware and networking issues for computer labs",
         "Answer phone and email responses for ICS Help Desk"
+      ]
+    },
+    {
+      "company": "Hawaii Space Flight Laboratory",
+      "position": "High Level Software Intern",
+      "website": "http://www.hsfl.hawaii.edu/",
+      "startDate": "2015-03-01",
+      "endDate": "2016-08-01",
+      "summary": "Lead High level software student portions for NMSR and star tracker project",
+      "highlights": [
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
       ]
     }
   ],
