@@ -1,29 +1,26 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
-date: 2015
+image: images/bsc5-plot.jpg
+title: Vojale
+permalink: projects/vojale
+date: 2016
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Geometry
+  - Astronomy
+  - Python
+summary: Research toward geometrically matching stars in an image without sky reference to an star catalog.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/cid-no-rotate.jpg">
+  <img class="ui image" src="../images/fov-vs-sgll.jpg">
+  <img class="ui image" src="../images/45-45-90.jpg">
+  <img class="ui image" src="../images/cid-left-45-rotate.jpg">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Given an image of the sky without a point of reference (i.e. accelerometer or magnetometer input), is it possible to accurately and efficiently identify the stars in this image? The research here is an attempt to solve this problem, and is an extension of my previous Hawaii Space Flight Laboratory star tracker project. The application of this problem lies with estimating attitude for spacecraft. If the stars in an image are known, then an attitude can be derived from an inertial frame. Now knowing which direction the craft is pointing, sensors, solar panels, and propulsion devices can be adjusted appropriately. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+The general strategy behind identifying these stars is to use their position relative to each other. A 2-vertex algorithm will match segments between stars in the input image to segments formed between stars in nature. A 3-vertex algorithm will match specific triangles, and 4-vertex/5-vertex will match quadrilaterals and pentagons respectively. I have currently done work toward star density analysis, created a hardware-abstract input, and developed an algorithm + Python implementation for 2-vertex based star matching. I still plan on developing 3-4-5 vertex based star matching, and testing all of these algorithms under the introduction of incorrect data.  
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
-
-
-
+You can learn more at the GitHub repository [here](https://github.com/glennga/vojale).
