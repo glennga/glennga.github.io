@@ -10,7 +10,7 @@ labels:
 summary: Personal programming, technique, and diet for competitive powerlifting.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/deadlift.png">
+<img class="ui medium right floated rounded image" src="../images/deadlift.jpg">
 
 Powerlifting is a competition sport that involves three attempts at a proper *squat*, *bench*, and *deadlift*. The competitor's heaviest sucessful attempts for each different lift contributes to a total. The goal is to have the highest total in their respective weight/age/gender class. 
 
