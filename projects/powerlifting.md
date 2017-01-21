@@ -10,11 +10,7 @@ labels:
 summary: Personal programming, technique, and diet for competitive powerlifting.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/bench.jpg">
-  <img class="ui image" src="../images/squat.jpg">
-  <img class="ui image" src="../images/deadlift.jpg">
-</div>
+<img class="ui medium right floated rounded image" src="../images/deadlift.png">
 
 Powerlifting is a competition sport that involves three attempts at a proper *squat*, *bench*, and *deadlift*. The competitor's heaviest sucessful attempts for each different lift contributes to a total. The goal is to have the highest total in their respective weight/age/gender class. 
 
@@ -31,7 +27,9 @@ Technique is a huge part of what I constantly analyze. Below are my current thou
 7. Push feet into ground violently to straighten knees and squeeze butt to unhinge hips to straighten body. These should occur at the same rate, with knees and hips straightening at the same time.
 8. Once knees and hips are vertical (nothing past this), hinge hips and knees to lower the bar. 
 
-I have a set of procedures for each different lift, as well as logs detailing changes to the procedures. The goal is to lift more weight here, and technique is a part of the road to get there. 
+I have a set of procedures for each different lift, as well as logs detailing changes to the procedures. In addition to this, I have logs detailing my diet and my programming. The goal is to lift more weight here, and a scientific approach to understanding how I lift under different variables will help me achieve this goal.
+
+Powerlifting has really shaped me into who I am today. I've learned to develop a good base of information before building upward. I've learned to treat every failure as a lesson. I've learned that life is a marathon, not a sprint. I've learned a lot over the years, and know that I have much more to learn. 
 
 For more information regarding the science behind powerlifting, [Strengtheory](http://strengtheory.com/) is a great resource.
 
