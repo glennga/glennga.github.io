@@ -23,6 +23,6 @@ The general strategy behind identifying these stars is to use their position rel
 
 I have currently done work toward star density analysis, created a hardware-abstract input, and developed an algorithm + Python implementation for 2-vertex based star matching. I still plan on developing 3-4-5 vertex based star matching, and testing all of these algorithms under the introduction of incorrect data. 
 
-I am enjoying this project so far, mainly I can plainly see the contrast between my high school research papers and my research papers now. Seeing the my notes and algorithms I developed formatted in LaTeX, the visualizations I created in MatplolLib, and my code is in a repository never fails to put a smile on my face. It is a huge goal of mine to eventually publish a paper, and it would be fantastic to eventually publish these results. 
+I am enjoying this project so far, mainly because I can see the contrast between my high school research papers and the research papers I develop now. Seeing my notes and the algorithms I developed formatted in LaTeX, the visualizations I created in MatplolLib, and my code is in a repository never fails to put a smile on my face. It is a huge goal of mine to eventually publish a paper, and it would be fantastic to eventually show these results to the world. 
 
 You can learn more at the GitHub repository [here](https://github.com/glennga/vojale).
