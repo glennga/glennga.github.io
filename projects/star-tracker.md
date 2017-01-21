@@ -21,11 +21,11 @@ One current method for LEO (Low Earth Orbit) attitude extraction involves two se
 I developed a star tracker agent under the COSMOS framework that takes an image as input, and updates a "state of health" stream with relavent attitude information. The general steps I used to extract a quaternion attitude from an image are below:
 
 1. Identify the mass centers and grayscale values of the blobs in the image. These are the stars. 
-2. Calculate the area/perimeter for a trio of stars. Match these stars with a area/perimeter in an inertial frame (lookup table). Repeat this until a match is found.
+2. Calculate the area/perimeter for a trio of stars. Match these stars with an area/perimeter in an inertial frame (lookup table). Repeat this until a match is found.
 3. Draw vectors to two of known stars in image, and inertial vectors to the same two stars in catalog.
-4. Generate quaternion attitude with TRIAD.
+4. Generate quaternion attitude by finding how to rotate these two pairs of vectors across frames.
 
-I learned a lot about what I wanted to do after college from this project. Prior to this, I found enjoyment in just typing code into a text editor and watching it run. I thought that's all there was to programming. During this project, I had to learn so much of the math and formal algorithms behind a seemingly magic piece of machinery. As much as I banged my head against the wall trying to understand these concepts, I realized that I love this type of work. It was here I decided that I want to go into math/computer science research.
+I learned a lot about what I wanted to do after college from this project. Prior to this, I found enjoyment in just typing code into a text editor and watching it run. I thought that was what programming was about. During this project, I had to learn so much of the math and formal algorithms behind a seemingly magic piece of machinery. As much as I banged my head against the wall trying to understand these concepts, I realized that I love this type of work. It was here I decided that I want to go into math/computer science research.
 
 I have a LinkedIn SlideShare presentation [here](http://www.slideshare.net/GlennGalvizo/hsfl-star-tracker-presentation).
 
