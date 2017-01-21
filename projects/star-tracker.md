@@ -25,6 +25,8 @@ I developed a star-tracker agent under the COSMOS framework that takes an image 
 3. Draw vectors to two of known stars in image, and inertial vectors to the same two stars in catalog.
 4. Generate quaternion attitude with TRIAD.
 
+I learned a lot about what I wanted to do after college from this project. Prior to this, I found enjoyment is just typing code into a text editor and watching it run. During this project, I had to learn so much of the math and formal algorithms behind a seemingly magic piece of machinery. As much as I banged my head against the wall trying to understand these concepts, I later realized that I love this type of work. It was here I decided that I want to go into math/computer science research.A
+
 I have a LinkedIn SlideShare presentation [here](http://www.slideshare.net/GlennGalvizo/hsfl-star-tracker-presentation).
 
 Some of this project is proprietary, you can contact me directly for more information regarding the process described above.
