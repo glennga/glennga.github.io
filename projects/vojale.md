@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/bsc5-plot.png
+image: images/bsc5-plot.jpg
 title: Vojale
 permalink: projects/vojale
 date: 2016
