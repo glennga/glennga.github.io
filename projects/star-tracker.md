@@ -14,7 +14,7 @@ summary: Development of star-based attitude estimation algorithms.
 
 <img class="ui image" src="{{ site.baseurl }}/images/location-and-brightness-test.png">
 
-Spacecraft star tracking refers to matching stars from a detector to a database to derive an attitude relative to Earth. Once specific stars are known, an attitude relative to the Earth can be obtained. From here the craft can direct their propulsion systems, orient their solar panels, and/or move their payload accordingly. 
+Spacecraft star tracking refers to matching stars from a detector to a database. Once specific stars are known, an attitude relative to the Earth can be obtained. From here the craft can direct their propulsion systems, orient their solar panels, and/or move their payload accordingly. 
 
 One current method for LEO (Low Earth Orbit) attitude extraction involves two sensors (a Sun sensor and an accelerometer for Earth's gravity) for two vectors. A minimum of two vectors here are necessary to represent rotation across an frames. A star tracker is able to act without relying on additional sensors and is under significantly less constraints than the combo described above. 
 
