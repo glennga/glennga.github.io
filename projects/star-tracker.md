@@ -16,7 +16,7 @@ summary: Development of star-based attitude estimation algorithms.
 
 Spacecraft star tracking refers to matching stars from a detector to a database. Once specific stars are known, an attitude relative to the Earth can be obtained. From here the craft can direct their propulsion systems, orient their solar panels, and/or move their payload accordingly. 
 
-One current method for LEO (Low Earth Orbit) attitude extraction involves two sensors (a Sun sensor and an accelerometer for Earth's gravity) for two vectors. A minimum of two vectors here are necessary to represent rotation across an frames. A star tracker is able to act without relying on additional sensors and is under significantly less constraints than the combo described above. 
+One current method for LEO (Low Earth Orbit) attitude extraction involves two sensors (a Sun sensor and an accelerometer for Earth's gravity) for two vectors. A minimum of two vectors here are necessary to represent rotation across frames. A star tracker is able to act without relying on additional sensors and is under significantly less constraints than the combo described above. 
 
 I developed a star tracker agent under the COSMOS framework that takes an image as input, and updates a "state of health" stream with relavent attitude information. The general steps I used to extract a quaternion attitude from an image are below:
 
