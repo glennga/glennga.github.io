@@ -21,8 +21,10 @@ One current method for LEO (Low Earth Orbit) attitude extraction involves a Sun 
 I developed a star-tracker agent under the COSMOS framework that takes an image as input, and updates the state-of-health with relavent attitude information. The general steps I used to extract a quaternion from an image are below:
 
 1. Identify the mass centers and grayscale values of the blobs in the image. These are the stars. 
-2. Calculate the area/perimeter for a trio of stars. Match these stars with a area/perimeter in an inertial frame. Repeat this until a match is found.
+2. Calculate the area/perimeter for a trio of stars. Match these stars with a area/perimeter in an inertial frame (lookup table). Repeat this until a match is found.
 3. Draw vectors to two of known stars in image, and inertial vectors to the same two stars in catalog.
 4. Generate quaternion with TRIAD.
 
-You can learn more at my LinkedIn SlideShare [here](http://www.slideshare.net/GlennGalvizo/hsfl-star-tracker-presentation).
+I have a LinkedIn SlideShare presentation [here](http://www.slideshare.net/GlennGalvizo/hsfl-star-tracker-presentation).
+
+Some of this project is proprietary, you can contact me directly for more information regarding the process described above.
