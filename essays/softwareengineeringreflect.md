@@ -14,7 +14,9 @@ Up until now, I've worked on projects that require one programmer. I've had ment
 The hardest task in every technical project I have is explaining the project itself in a non-technical manner. I remember a conversation I had with a professor about my Vojale project: 
 
 > "So what is your project?"
+
 > "Given a set of XY coordinates converted from celestial coordinates in the Yale Bright Star Catalog..."
+
 > "Now explain this as if I were your mom." 
 
 Working on a group means that I will have to learn to summarize for different audiences. Hopefully the group project we perform will help me practice and hone this skill.
