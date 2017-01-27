@@ -12,7 +12,7 @@ labels:
 
 I'm a very avid user of Stack Exchange. It is an amazing reference for all of my technical classes, as well as technical topics for my job! That being said, it is an art trying to ask and search for the right question to a problem. As with any technical profession, it is impossible to memorize every single detail. Questions will be asked, and they should be done so in a smart manner. This essay refers to my observations on asking Stack Overflow questions.
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 ## Ask smart questions, get smart answers
 
