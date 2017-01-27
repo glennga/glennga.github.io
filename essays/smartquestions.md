@@ -23,8 +23,11 @@ On the other hand, the question should be succinct. Questions should be attracti
 ## Ask smart questions in the right place
 
 Let's say we want to find out a answer to sorting a list in Lisp. Would you ask:
+
 1) womenshealthandfitness.com
+
 2) myfoothurtsandidontknowwhy.net
+
 3) stackoverflow.com
 
 I guess I could find an answer on myfoothurtsandidontknowwhy.net, but a large part of asking smart questions is asking the right group. In fact, different communities on Stack Exchange will give much different answers. Ask the Arduino community about a general microcontroller question and they will give you Arduino specific answers. 
