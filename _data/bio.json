@@ -29,18 +29,24 @@
   },
   "interests": [
     {
-      "name": "inferential statistics",
+      "name": "probability",
       "keywords": [
+        "random walks",
+        "stochastic processes"
       ]
     },
     {
       "name": "algorithms",
       "keywords": [
+        "analysis",
+        "optimization"
       ]
     },
     {
-      "name": "astronomy",
+      "name": "robotics",
       "keywords": [
+        "rovers",
+        "Arduino"
       ]
     }
   ],
@@ -54,11 +60,13 @@
         "Java",
         "Javascript",
         "Common Lisp",
+        "Prolog",
         "Python",
         "Matlab",
         "Bash",
         "DOS",
         "SQL"
+        "Meteor"
       ]
     },
     {
@@ -151,6 +159,12 @@
     }
   ],
   "awards": [
+    {
+      "title": "UROP Project Awardee",
+      "date": "2017-April",
+      "awarder": "Undergraduate Research Opportunities Program Commitee",
+      "summary": "Awarded research grant for proposing Hoku project to the commitee."
+    },
     {
       "title": "Cadet 4th Class of the Month",
       "date": "2014-October",
