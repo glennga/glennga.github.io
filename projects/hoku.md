@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/bsc5-plot.jpg
+image: images/locate-stars-test.jpg
 title: Hoku
 permalink: projects/hoku
 date: 2017
@@ -38,6 +38,6 @@ There currently exists many approaches to star identification, but many them onl
 
 In the summer of 2016, I had the opportunity to volunteer at the Hawaii Space Flight Laboratory (HSFL). I was under the supervision of HSFL engineers Eric Pilger and Miguel Nunes to develop software for a first-generation star tracker. This project has also been the subject of my ICS499 project.
 
-Switching perspectives from engineering to research really opened my eyes and has helped me lay down a foundation. One road bump I'll share was trying to map a sphere onto a plane for the generated image- it took a good month and a half between talks with Dr. Lim and hours of cartography research to just say, "Let's skip this step." But wait, how can you pick stars from an image if you don't even have an image? The answer was that our goals were different than my time at HSFL. My goal isn't to create a working star tracker, it's to analyze the underlying processes!  The lesson I took from this was to `ctrl -` (zoom out) every now and then and perform my sanity checks.
+Switching perspectives from engineering to research really opened my eyes and has helped me lay down a foundation. One road bump I'll share was trying to map a sphere onto a plane for the generated image- it took a good month and a half between talks with Dr. Lim and hours of cartography research to just say, "Let's skip this step." But wait, how can you pick stars from an image if you don't even have an image? The answer was that our goals were different than my time at HSFL. My goal isn't to create a working star tracker, it's to analyze the underlying processes!  The lesson I took from this was to '`ctrl -`' (zoom out) every now and then and perform my sanity checks.
 
-You can learn more at the GitHub repository [here](https://github.com/glennga/hoku).
+You can track my current progress at my GitHub repository [here](https://github.com/glennga/hoku).
