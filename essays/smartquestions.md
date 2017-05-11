@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Communicating through Questions
+title: Communicating Through Questions
 date: 2017-01-21
 labels:
   - Stack Overflow
