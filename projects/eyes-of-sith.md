@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/eos-image.png
+image: images/project.png
 title: Eyes of Sith
 permalink: projects/eyes-of-sith
 date: 2017
