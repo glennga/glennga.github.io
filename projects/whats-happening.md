@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/landing-page.png
+image: images/whats-happening-image.png
 title: What's Happening
 permalink: projects/whats-happening
 date: 2017
