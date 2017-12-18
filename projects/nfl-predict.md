@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: http://athlonsports.com/sites/athlonsports.com/files/shared/nfl/NFL_Logos/NFL_shield_logo.jpg
-title: NFL HTLP
+image: ../images/nfl-logo.jpg
+title: NFL Half Time Lead Prediction
 permalink: projects/nfl-half-time-lead-prediction
 date: 2017
 labels:
