@@ -1,16 +1,16 @@
 {
   "basics": {
     "name": "Glenn Galvizo", 
-    "label": "Student",
+    "label": "Student, Robotics Mentor",
     "picture": "https://glennga.github.io/images/profile-image.jpg",
     "email": "glennga@hawaii.edu",
     "phone": "808-389-9861",
     "website": "https://glennga.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences, and a certicate in Mathematical Biology at the University of Hawaii. I expect to graduate in Fall, 2018.",
+    "summary": "Hello all! I am a student at the University of Hawaii at Manoa pursuing a B.S. in Computer Science and a certificate in Mathematical Biolgoy. I expect to graduate in Fall, 2018.",
     "location": {
-      "address": "94-844 Lelepua Street Apartment 21A",
-      "postalCode": "96797",
-      "city": "Waipahu",
+      "address": "45-1028 Wailele Road",
+      "postalCode": "96744",
+      "city": "Kaneohe",
       "countryCode": "USA",
       "region": "Hawaii"
     },
@@ -29,30 +29,31 @@
   },
   "interests": [
     {
-      "name": "probability",
-      "keywords": [
-        "random walks",
-        "stochastic processes"
-      ]
-    },
-    {
-      "name": "algorithms",
-      "keywords": [
-        "analysis",
-        "optimization"
-      ]
-    },
-    {
       "name": "astrometry",
       "keywords": [
-        "star catalogs",
-        "error correction"
+        "lost-in-space star identification",
+        "spacecraft orientation"
+      ]
+    },
+    {
+      "name": "population modeling",
+      "keywords": [
+        "epidemiology",
+        "mathematical biology"
+      ]
+    },
+    {
+      "name": "robotics",
+      "keywords": [
+        "VEX",
+        "FIRST",
+        "Arduino"
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Programming Languages",
       "level": "",
       "keywords": [
         "C",
@@ -60,23 +61,22 @@
         "Java",
         "Javascript",
         "Common Lisp",
-        "Prolog",
+        "PHP",
         "Python",
         "Matlab",
-        "Bash",
-        "DOS",
-        "SQL",
-        "Meteor"
+        "MySQL"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "OS / Tools",
       "level": "",
       "keywords": [
+        "Windows",
         "Ubuntu",
+      	"Microsoft Excel",
+      	"Putty",
         "LaTeX",
-        "Git/GitHub",
-        "g++"
+        "Git"
       ]
     }
   ],
@@ -89,11 +89,11 @@
       "endDate": "Present",
       "gpa": "3.94",
       "courses": ["Software Engineering I-II",
-	              "Probabilistic & Deterministic Models",
-				  "Machine Learning Fundamentals",
-				  "Programming Language Theory",
-				  "Databases",
-				  "Algorithms"
+                  "Probabilistic & Deterministic Models",
+    			  "Machine Learning Fundamentals",
+    			  "Programming Language Theory",
+    			  "Database Systems",
+    			  "Algorithms"
       ]
     },
         {
@@ -110,25 +110,28 @@
     }
   ],
   "work": [
-      {
-      "company": "University of Hawaii at Manoa",
-      "position": "Undergraduate Research Opportunity Awardee (Researcher)",
-      "website": "http://manoa.hawaii.edu/undergrad/urop/",
-      "startDate": "2017-08-21",
-      "summary": "Research and optimize five blind star identification algorithms.",
-      "highlights": [
-	    "Implemented three different blind star identification algorithms, as well as a unit testing framework and benchmark data generator in Python and C++.",
-		"Implementing two more algorithms, and plan to create a more optimal solution based on these five.",
-      ]
-    },
-	{
+     {
       "company": "Maryknoll School",
       "position": "VEX Robotics Mentor and Coach",
       "startDate": "2016-08-21",
       "summary": "Mentor 4th-12th grade students in the development, design, and application of robotics through VEX.",
       "highlights": [
-	    "Guide, mentor, and coach elementary to high school students in creating VEX competition robots.",
-		"Students are taught the basics of mechanical design, documentation, C-based programming, game strategy, and teamwork.",
+        "Guide, mentor, and coach elementary to high school students in creating VEX and FRC competition robots.",
+        "Created and ran several lectures on the basics of RobotC programming for VEX.",
+    	"Students are taught the basics of mechanical design, documentation, C-based programming, game strategy, project management, and teamwork."
+      ]
+    },
+    {
+      "company": "University of Hawaii at Manoa",
+      "position": "Undergraduate Research Opportunity Awardee (Researcher)",
+      "website": "http://manoa.hawaii.edu/undergrad/urop/",
+      "startDate": "2017-08-21",
+      "endDate": "2017-12-08",
+      "summary": "Research and analyze four existing blind star identification algorithms.",
+      "highlights": [
+        "Implemented four different blind star identification methods, and proposed a fifth method.",
+        "Implemented a benchmark data generator in Python and C++.",
+        "Created and ran several experiments to test these identification methods."
       ]
     },
     {
@@ -139,9 +142,9 @@
       "endDate": "2017-08-01",
       "summary": "Manage lab machines for ICS department.",
       "highlights": [
-	    "Helped managed four labs of computers, users and their networks.",
-		"Developed Powershell scripts to automate Active Directory user account renewal and additions.",
-		"Developed various batch scripts for unattended program installation and lab-wide application updates."
+        "Helped managed four labs of computers, users and their networks.",
+    	"Developed Powershell scripts to automate Active Directory user account renewal and additions.",
+    	"Developed various batch scripts for unattended program installation and lab-wide application updates."
       ]
     },
     {
@@ -154,8 +157,8 @@
       "highlights": [
         "Managed a Unix Gumstix device for a stationary payload on a sounding rocket.",
         "Developed cross-platform memory/load/disk library for COSMOS project.",
-		"Developed COSMOS visualization tools with QT C++ Framework.",
-		"Created COSMOS agent and libraries for star based attitude estimation, and IMU based attitude estimation."
+    	"Developed visualization tools with QT C++ Framework.",
+    	"Created COSMOS agents and libraries for star based attitude estimation, and IMU based attitude estimation."
       ]
     }
   ],
@@ -189,16 +192,11 @@
       "awarder": "Undergraduate Research Opportunities Program Commitee",
       "summary": "Awarded research grant for proposing Hoku project to the commitee."
     },
-	{
+    {
       "title": "Dean's List",
-	  "date": "2016-Fall",
-	  "awarder": "University of Hawaii at Manoa",
-	},
-		{
-      "title": "Dean's List",
-	  "date": "2017-Spring",
-	  "awarder": "University of Hawaii at Manoa",
-	},
+      "date": "2016 Fall, 2017 Spring",
+      "awarder": "University of Hawaii at Manoa",
+    },
     {
       "title": "Cadet 4th Class of the Month",
       "date": "2014-October",
