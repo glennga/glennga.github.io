@@ -12,8 +12,6 @@ labels:
 summary: Development of UH Manoa based event listing web application.
 ---
 
-<img class="ui image" src="../images/landing-page.png">
-
 ## What is _What's Happening_?
 
 There isn’t a consolidated place where all events on campus can be posted and viewed easily. Event postings are scattered across different media. As a result, promoters have to work hard to get the word out, and consumers have to work hard to search for these events. The **What's Happening** solution is an application where students can both post and view events that are scheduled or happening on campus. 
@@ -24,37 +22,37 @@ This application was a project for my Software Engineering class, where me and t
 
 Upon visiting the site, you are greeted with the landing page below.
 
-<img class="ui image", src="https://whats-happening-uhm.github.io/images/landingpage.png">
+<img class="ui image" src="https://whats-happening-uhm.github.io/images/landingpage.png">
 
 New users click the *Sign Up & know What's Happening* button to direct them to the account creation page. 
 
-<img class="ui image", src="https://whats-happening-uhm.github.io/images/usersetuppage.png">
+<img class="ui image" src="https://whats-happening-uhm.github.io/images/usersetuppage.png">
 
 If you have an account, you can just skip this step and click the *Login* item in the menu bar.
 
-<img class="ui image", src="https://whats-happening-uhm.github.io/images/whats-happening-cas.png">
+<img class="ui image" src="https://whats-happening-uhm.github.io/images/whats-happening-cas.png">
 
 Upon signing up or logging in, you are directed to the home page. If you are not logged in, the same events will be displayed but you will not have the option to list events, save events, or edit your profile in the header bar.
 
-<img class="ui image", src="https://whats-happening-uhm.github.io/images/homepage.png">
+<img class="ui image" src="https://whats-happening-uhm.github.io/images/homepage.png">
 
 Note that you can also get to this page by clicking *Find Out What's Happening* in the landing page, *Browse Events* in the header bar, or *What's Happening* in the header bar.
 
 You can click on event to view more information. From here, you can click the upper right star to save an event, inform the organizer you are attending, or edit the event if you listed it.
 
-<img class="ui image", src="https://whats-happening-uhm.github.io/images/eventmodal.png">
+<img class="ui image" src="https://whats-happening-uhm.github.io/images/eventmodal.png">
 
 To view all public information associated with you, click your UH username in the header bar. You can view all the events you listed, plan-to-attend, or saved by clicking the appropriate tabs.
 
-<img class="ui image", src="https://whats-happening-uhm.github.io/images/profilepage.png">
+<img class="ui image" src="https://whats-happening-uhm.github.io/images/profilepage.png">
 
 To list an event of your own, click `Add Event` in the header.
 
-<img class="ui image", src="https://whats-happening-uhm.github.io/images/addeventpage.png">
+<img class="ui image" src="https://whats-happening-uhm.github.io/images/addeventpage.png">
 
 If you need to edit your profile, click *Edit Profile* in the header.
 
-<img class="ui image", src="https://whats-happening-uhm.github.io/images/editprofilepage.png">
+<img class="ui image" src="https://whats-happening-uhm.github.io/images/editprofilepage.png">
 
 ## Development Process 
 
