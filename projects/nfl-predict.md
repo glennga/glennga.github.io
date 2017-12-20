@@ -20,7 +20,9 @@ In this project I train support vector machines (SVMs) to predict if a National 
 
 ## Background
 
-Gridiron football is the most watched sport in America- and with most sports, there is an element of unpredictability that keeps us glued to the television. At the end of the 1st quarter or the half of an NFL game with my friends, we typically ask each other who will lead in the following quarters and make *friendly bets* from here. I was inspired to ask the following question after losing one of these bets: 
+I like football. A lot of America likes football- in fact gridiron football is the most watched sport in America. I was also tasked with answering a problem using the machine learning techniques in one of my ICS class. So I figured, why not combine the two? 
+
+The NFL (as with most sports) can be pretty unpredictable at times, which leads to many fans (such as myself) making dumb bets based on the outcome of the game. At the end of the 1st quarter or the half of an NFL game with my friends, we typically ask each other who will lead in the following quarters and make *friendly bets* from here. Let's call it inspirtation, which led me to ask the following question after losing one of these bets: 
 
 >  Given information about teams before the start of the second quarter, can we accurately predict if they will lead at the half?”
 
@@ -59,15 +61,15 @@ Following the 50:25:25 rule for splitting our data-set into training, verificati
    6. Total number of field goals.
    7. Total number of field goals blocked.
    8. Average field goal distance.
-4. **Overall Performance**, 𝑑 = 8.
-  1. Total number of first downs.
-  2. Total number of touchdowns.
-  3. Total number of interceptions thrown by opposing team.
-  4. Total number of fumbles by opposing team.
-  5. Total number of sacks.
-  6. Total number of field goals made.
-  7. Is the team leading after the first quarter?
-  8. Does the team start with the ball in the 2nd quarter? 
+4. **Overall Performance**, 𝑑 = 8
+   1. Total number of first downs.
+   2. Total number of touchdowns.
+   3. Total number of interceptions thrown by opposing team.
+   4. Total number of fumbles by opposing team.
+   5. Total number of sacks.
+   6. Total number of field goals made.
+   7. Is the team leading after the first quarter?
+   8. Does the team start with the ball in the 2nd quarter? 
 
 It is important to note that the selection of these feature ignores the other team’s performance (directly), the changes made over the years, weather of this game, and much more. These factors go beyond the scope of this project, but are important to be aware of.
 
