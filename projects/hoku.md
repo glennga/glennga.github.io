@@ -12,7 +12,7 @@ labels:
 summary: Research toward optimization of matching stars in an image without sky reference, to a stars in a catalog.
 ---
 
-<img class="ui image" src="../images/eid-5err.png">
+<img class="ui medium right floated rounded image" src="../images/eid-5err.png">
 
 ## Summary 
 
@@ -47,7 +47,7 @@ For the first experiment, I characterized the ‘Search Catalog’ step of each 
 
 My next experiment involved characterizing the ‘Find Orientation’ step of each method.Here I examined the accuracy of the resulting catalog-image star pairing, assuming *C'* is correct under the presence of centroiding error. My results here show that orientation determination of the Pyramid /CoIn method is the most tolerant technique. 
 
-The third experiment I performed was characterizing a *single* start of each method to the *|C'| = 1* decision. This combines the two filtering steps to find *C' and *C*, and would allow us to see if negative performance in the ‘Search Catalog’ impacts our‘Filter Candidates’ step. The experiment is setup to measure if our query stars *q* contain (not match) the same labels as *C'*, and is still being performed. Preliminary results suggest that negative performance in the ‘Search Catalog’ does not impact our performance in the next step.
+The third experiment I performed was characterizing a *single* start of each method to the first decision. This combines the two filtering steps to find *C'* and *C*, and would allow us to see if negative performance in the ‘Search Catalog’ impacts our‘Filter Candidates’ step. The experiment is setup to measure if our query stars *q* contain (not match) the same labels as *C'*, and is still being performed. Preliminary results suggest that negative performance in the ‘Search Catalog’ does not impact our performance in the next step.
 
 The last experiment I performed was to characterize the “end to end” efficiency and accuracy of each method. End to end is in quotes here, because a good portion of the literature do not specify steps past the ‘Find Orientation’ step. This again combines the first three experiments, but is run for *until we reach the Find Orientation step*. The experiment is setup to measure if our query stars *q* match (not contain, like the 3rd experiment) the same labels as , and is still being performed as well. Preliminary results show that the Angle method performs the best, and that combining Planar Triangles and the Pyramid method does not yield a better performance. 
 
