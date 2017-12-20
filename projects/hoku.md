@@ -12,7 +12,7 @@ labels:
 summary: Research toward optimization of matching stars in an image without sky reference, to a stars in a catalog.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/eid-5err.png">
+<img class="ui image" src="../images/eid-5err.png">
 
 ## Summary 
 
