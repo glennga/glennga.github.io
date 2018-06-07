@@ -1,13 +1,13 @@
 <!-- Used by theme-bio-builtin-2 -->
 
-{% if site.data.bio.presentations %}
+{% if site.data.bio.papers %}
 <div class="sixteen wide column no-bottom">
   <h3 class="ui left aligned header no-bottom">Papers</h3>
   <hr style="margin: 0px;">
 </div>
 
 <div class="sixteen wide column no-bottom">
-  {% for entry in site.data.bio.presentations %}
+  {% for entry in site.data.bio.papers %}
     <p class="ui no-bottom">
     {{ entry.text }}
     </p>
