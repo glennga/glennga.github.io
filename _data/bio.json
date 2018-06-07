@@ -23,8 +23,8 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2018)",
-      "studyType": "B.S.",
+      "area": "Computer Science, Mathematical Biology (expected Fall, 2018)",
+      "studyType": "B.S., Certificate",
       "startDate": "2016-09-01",
       "endDate": "Present",
       "gpa": "3.95",
@@ -68,6 +68,14 @@
         "awarder": "University of Hawaii at Manoa",
         "summary": "Awarded for GPA. 2016 Fall, 2017 Spring, 2017 Fall"
       }
+  ],
+  "presentations": [
+    {
+      "title": "Undergraduate Showcase",
+      "date": "",
+      "location": "University of Hawaii at Manoa",
+      "summary": "Analysis and Optimization of Lost-in-Space Star Identification"
+    }
   ],
   "work": [
      {
