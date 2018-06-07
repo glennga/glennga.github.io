@@ -6,14 +6,7 @@
     "email": "glennga@hawaii.edu",
     "phone": "808-389-9861",
     "website": "https://glennga.github.io",
-    "summary": "Hello all! I am a student at the University of Hawaii at Manoa pursuing a B.S. in Computer Science and a certificate in Mathematical Biolgoy. I expect to graduate in Fall, 2018.",
-    "location": {
-      "address": "45-1028 Wailele Road",
-      "postalCode": "96744",
-      "city": "Kaneohe",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
+    "summary": "Hello all! I am a student at the University of Hawaii at Manoa pursuing an undergraduate degree in Computer Science and a certificate in Mathematical Biology. I expect to graduate in Fall, 2018.",
     "profiles": [
       {
         "network": "github",
@@ -27,59 +20,6 @@
       }
     ]
   },
-  "interests": [
-    {
-      "name": "astrometry",
-      "keywords": [
-        "lost-in-space star identification",
-        "spacecraft orientation"
-      ]
-    },
-    {
-      "name": "population modeling",
-      "keywords": [
-        "epidemiology",
-        "mathematical biology"
-      ]
-    },
-    {
-      "name": "robotics",
-      "keywords": [
-        "VEX",
-        "FIRST",
-        "Arduino"
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Programming Languages",
-      "level": "",
-      "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Common Lisp",
-        "PHP",
-        "Python",
-        "Matlab",
-        "MySQL"
-      ]
-    },
-    {
-      "name": "OS / Tools",
-      "level": "",
-      "keywords": [
-        "Windows",
-        "Ubuntu",
-      	"Microsoft Excel",
-      	"Putty",
-        "LaTeX",
-        "Git"
-      ]
-    }
-  ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
@@ -87,12 +27,12 @@
       "studyType": "B.S.",
       "startDate": "2016-09-01",
       "endDate": "Present",
-      "gpa": "3.94",
+      "gpa": "3.95",
       "courses": ["Software Engineering I-II",
                   "Probabilistic & Deterministic Models",
     			  "Machine Learning Fundamentals",
-    			  "Programming Language Theory",
-    			  "Database Systems",
+                  "Programming Language Theory",
+    			  "Database Systems I-II",
     			  "Algorithms"
       ]
     },
@@ -108,6 +48,26 @@
                    "Calculus I-IV"
       ]
     }
+  ],
+  "awards": [
+      {
+        "title": "Undergraduate Research Opportunity Grant",
+        "date": "",
+        "awarder": "Undergraduate Research Opportunities Program",
+        "summary": "Awarded to fund the project 'Optimization of Lost-in-Space Star Identification Algorithms'. $4890"
+      },
+      {
+        "title": "Very Large Data Base Scholarship",
+        "date": "",
+        "awarder": "Very Large Data Base Endowment Incorperated",
+        "summary": "Awarded once per academic year per campus. Based on merit. $2000"
+      },
+      {
+        "title": "Dean's List",
+        "date": "",
+        "awarder": "University of Hawaii at Manoa",
+        "summary": "Awarded for GPA. 2016 Fall, 2017 Spring, 2017 Fall"
+      }
   ],
   "work": [
      {
@@ -185,24 +145,29 @@
       ]
     }
   ],
-  "awards": [
+  "interests": [
     {
-      "title": "UROP Project Awardee",
-      "date": "2017-April",
-      "awarder": "Undergraduate Research Opportunities Program Commitee",
-      "summary": "Awarded research grant for proposing Hoku project to the committee."
+      "name": "astrometry",
+      "keywords": [
+        "lost-in-space star identification",
+        "attitude determination"
+      ]
     },
     {
-      "title": "Dean's List",
-      "date": "2016 Fall, 2017 Spring",
-      "awarder": "University of Hawaii at Manoa",
+      "name": "databases",
+      "keywords": [
+        "access methods",
+        "distributed systems",
+        "data modeling"
+      ]
     },
     {
-      "title": "Cadet 4th Class of the Month",
-      "date": "2014-October",
-      "awarder": "Detachment 175 Air Force Reserve Officer Training Corps",
-      "summary": "Surpass peers in drill and warrior knowledge in a board enviroment."
-    },
+      "name": "biological modeling",
+      "keywords": [
+        "epidemiology",
+        "microsatellites"
+      ]
+    }
   ],
   "references": [
     {
