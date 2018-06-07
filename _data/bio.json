@@ -23,8 +23,8 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2018)",
-      "studyType": "B.S.",
+      "area": "Computer Science, Mathematical Biology (expected Fall, 2018)",
+      "studyType": "Bachelor of Science, Certificate",
       "startDate": "2016-09-01",
       "endDate": "Present",
       "gpa": "3.95",
@@ -39,7 +39,7 @@
         {
       "institution": "Leeward Community College, Pearl City, HI",
       "area": "Liberal Arts",
-      "studyType": "A.A.",
+      "studyType": "Associate of Arts",
       "startDate": "2014-08-25",
       "endDate": "2015-12-19",
       "gpa": "4.0",
@@ -68,6 +68,11 @@
         "awarder": "University of Hawaii at Manoa",
         "summary": "Awarded for GPA. 2016 Fall, 2017 Spring, 2017 Fall"
       }
+  ],
+  "papers": [
+    {
+    <b>Analysis and Optimization of Lost-in-Space Star Identification</b>, G. Galvizo, <em>Undergraduate Showcase</em>, University of Hawaii at Manoa, Dec. 2017
+    }
   ],
   "work": [
      {
