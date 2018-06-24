@@ -9,6 +9,6 @@ labels:
   - Ordinary Differential Equations (ODEs)
   - SIR Models
   - Mathematical Biology
-summary: Replication of the paper "When Zombie’s Attack!: Mathematical Modelling of an Outbreak of Zombie Infection", and analyzing a new permanent eradication model.
+summary: Replication of SIR-based zombie outbreak modeling paper and analyzing a new permanent eradication model.
 projecturl: https://github.com/glennga/zombie-ode
 ---
