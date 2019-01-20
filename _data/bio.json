@@ -3,37 +3,34 @@
     "name": "Glenn Galvizo", 
     "label": "Student, Robotics Mentor",
     "picture": "https://glennga.github.io/images/profile-image.jpg",
-    "email": "glennga@hawaii.edu",
-    "phone": "808-389-9861",
+    "email": "gjgalvizo@gmail.com",
+    "phone": "808-260-3894",
     "website": "https://glennga.github.io",
-    "summary": "Hello all! I am a student at the University of Hawaii at Manoa pursuing an undergraduate degree in Computer Science and a certificate in Mathematical Biology. I expect to graduate in Fall, 2018.",
+    "summary": "Hello all! I am a recent graduate from the University of Hawaii at Manoa. I hold a B.S. in Computer Science and a certificate in Mathematical Biology.",
     "profiles": [
       {
         "network": "github",
         "username": "glennga",
         "url": "http://github.com/glennga"
-      },
-      {
-        "network": "linkedin",
-        "username": "glennga",
-        "url": "http://linkedin.com/in/glennga"
       }
     ]
   },
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science, Mathematical Biology (expected Fall, 2018)",
+      "area": "Computer Science, Mathematical Biology",
       "studyType": "Bachelor of Science, Certificate",
       "startDate": "2016-09-01",
-      "endDate": "Present",
-      "gpa": "3.95",
+      "endDate": "2018-12-01",
+      "gpa": "3.96",
       "courses": ["Software Engineering I-II",
                   "Probabilistic & Deterministic Models",
-    			  "Machine Learning Fundamentals",
+                  "Machine Learning Fundamentals",
                   "Programming Language Theory",
-    			  "Database Systems I-II",
-    			  "Algorithms"
+                  "Database Systems I-II",
+                  "Operating Systems",
+		  "Data Networks",
+                  "Algorithms"
       ]
     },
         {
@@ -51,30 +48,30 @@
   ],
   "awards": [
       {
-        "title": "Undergraduate Research Opportunity Grant",
-        "date": "",
-        "awarder": "Undergraduate Research Opportunities Program",
-        "summary": "Awarded to fund the project 'Optimization of Lost-in-Space Star Identification Algorithms'. $4890"
-      },
-      {
         "title": "Very Large Data Base Scholarship",
-        "date": "",
+        "date": "2018-06-01",
         "awarder": "Very Large Data Base Endowment Incorperated",
-        "summary": "Awarded once per academic year per campus. Based on merit. $2000"
+        "summary": "$2000 merit based scholarship to study data management related topics." 
       },
       {
-        "title": "Dean's List",
-        "date": "",
-        "awarder": "University of Hawaii at Manoa",
-        "summary": "Awarded for GPA. 2016 Fall, 2017 Spring, 2017 Fall"
+        "title": "Undergraduate Research Opportunity Program Grant",
+        "date": "2017-12-01",
+        "awarder": "Undergraduate Research Opportunities Program",
+        "summary": "$4890 to fund the project 'Analysis and Optimization of Lost-in-Space Star Identification'."
+      },
+      {
+	"title": "Hawaii Space Flight Laboratory Traineeship",
+	"date": "2015-03-01",
+	"awarder": "Hawaii Space Grant Consortium", 
+	"summary": "$3000 to help develop sensor logging and flight path estimation software for CATSAT-1, a stationary payload on a sounding rocket."
       }
   ],
   "papers": [
     {
-        "text": "Galvizo G. <b>Efficient Parameter Estimation for Human Microsatellite Mutation.</b>. Submitted to the Mathematical Biology Certificate Committee at the University of Hawaii at Manoa, Nov. 30, 2018."
+        "text": "Galvizo G. <b>Efficient Parameter Estimation for Human Microsatellite Mutation.</b>. Accepted writing for the Mathematical Biology Certificate Committee at the University of Hawaii at Manoa, Nov. 30, 2018."
     },
     {
-        "text": "Galvizo G. and Lim L. <b>Empirical Analysis of Common Subgraph Isomorphism Approachs to the Lost-in-Space Star Identification Problem.</b>. Submitting for publication." 
+        "text": "Galvizo G. and Lim L. <b>An Experimental Survey of Evaluation Strategies for Constellation Queries.</b>. Submitting for publication." 
     }
   ],
   "work": [
@@ -82,6 +79,7 @@
       "company": "Maryknoll School",
       "position": "VEX Robotics Head Coach",
       "startDate": "2016-08-21",
+      "endDate": "2019-01-12",
       "summary": "Mentor 4th-12th grade students in the development, design, and application of robotics through VEX.",
       "highlights": [
         "Guide, mentor, and coach elementary to high school students in creating VEX and FRC competition robots.",
@@ -95,11 +93,12 @@
       "website": "http://manoa.hawaii.edu/undergrad/urop/",
       "startDate": "2017-08-21",
       "endDate": "2017-12-08",
-      "summary": "Research and analyze four existing blind star identification algorithms.",
+      "summary": "Research and analyze five existing blind star identification algorithms.",
       "highlights": [
-        "Implemented four different blind star identification methods, and proposed a fifth method.",
+        "Implemented five different blind star identification methods.",
         "Implemented a benchmark data generator in Python and C++.",
-        "Created and ran several experiments to test these identification methods."
+        "Created and ran several experiments to test these identification methods.",
+	"Presented work at the 2017 fall UHM Undergraduate Showcase"
       ]
     },
     {
@@ -110,9 +109,10 @@
       "endDate": "2017-08-01",
       "summary": "Manage lab machines for ICS department.",
       "highlights": [
-        "Helped managed four labs of computers, users and their networks.",
-    	"Developed Powershell scripts to automate Active Directory user account renewal and additions.",
-    	"Developed various batch scripts for unattended program installation and lab-wide application updates."
+        "Serviced four labs of computers, users and the networks connecting them.",
+	"Assisted students and professors with all machine related issues",
+	"Automated the development and unattended installation and updates of Windows programs across all lab computers.",
+    	"Developed Powershell scripts to automate Active Directory user account renewal and additions."
       ]
     },
     {
@@ -125,7 +125,7 @@
       "highlights": [
         "Managed a Unix Gumstix device for a stationary payload on a sounding rocket.",
         "Developed cross-platform memory/load/disk library for COSMOS project.",
-    	"Developed visualization tools with QT C++ Framework.",
+    	"Developed COSMOS visualization tools with QT C++ Framework.",
     	"Created COSMOS agents and libraries for star based attitude estimation, and IMU based attitude estimation."
       ]
     }
@@ -155,27 +155,28 @@
   ],
   "interests": [
     {
-      "name": "astrometry",
-      "keywords": [
-        "lost-in-space star identification",
-        "attitude determination"
-      ]
-    },
-    {
       "name": "databases",
       "keywords": [
-        "access methods",
-        "distributed systems",
-        "data modeling"
+        "query processing",
+        "distributed and parallel systems",
+	"big data"
       ]
     },
     {
       "name": "biological modeling",
       "keywords": [
-        "epidemiology",
-        "microsatellites"
+	"evolutionary biology",
+        "microsatellite DNA",
+	"human history"
       ]
     }
+    {
+      "name": "statistics",
+      "keywords": [
+	"parameter inference",
+	"machine learning"
+      ]
+    },
   ],
   "references": [
     {

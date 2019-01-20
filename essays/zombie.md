@@ -4,7 +4,7 @@ type: essay
 published: true
 title: "When Zombies Attack! : Mathematical Modeling of an Outbreak Zombie Infection"
 permalink: essays/zombie-modeling
-date: 2017
+date: 2018-06-23 
 labels:
   - Ordinary Differential Equations (ODE)
   - SIR Models

@@ -9,6 +9,6 @@ labels:
   - Genetics
   - Microsatellites
   - Markov Chain Monte Carlo
-summary: Research toward parameter estimation of a human migration model through microsatellite evolution.
+summary: Research toward parameter estimation of a human admixture model through microsatellite evolution.
 projecturl: https://github.com/glennga/micro-coa
 ---

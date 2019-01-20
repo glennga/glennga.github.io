@@ -4,7 +4,7 @@ type: essay
 published: true
 title: "Empirical Analysis of Common Subgraph Isomorphism Approaches to the Lost-in-Space Star Identification Problem" 
 permalink: essays/hoku-project
-date: 2018
+date: 2018-08-27
 labels:
   - Stellar Based Attitude Determination
   - Star Identification

@@ -4,7 +4,7 @@ type: essay
 published: true
 title: "Efficient Parameter Estimation for Human Microsatellite Mutation" 
 permalink: essays/microsatellite-mutation 
-date: 2018
+date: 2019-01-04
 labels:
   - Human Microsatellite Mutation
   - Markov Chain Monte Carlo (MCMC)
