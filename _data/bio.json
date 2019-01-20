@@ -169,14 +169,14 @@
         "microsatellite DNA",
 	"human history"
       ]
-    }
-    {
-      "name": "statistics",
-      "keywords": [
-	"parameter inference",
-	"machine learning"
-      ]
     },
+    {
+      "name": "astrometry",
+      "keywords": [
+	"lost-in-space star identification",
+	"attitude determination"
+      ]
+    }
   ],
   "references": [
     {
