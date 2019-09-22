@@ -9,6 +9,6 @@ labels:
   - Astrometry 
   - Star Identification
   - Spacecraft Orientation
-summary: Research toward optimization of matching stars in an image without sky reference, to a stars in a catalog.
+summary: Research toward characterizing different lost-in-space methods of image points to star catalog mappings.
 projecturl: https://github.com/glennga/hoku
 ---
