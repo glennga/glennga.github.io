@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Glenn Galvizo", 
-    "label": "Research Assistant",
+    "label": "Graduate Student",
     "picture": "https://glennga.github.io/images/profile-image.jpg",
     "email": "gjgalvizo@gmail.com",
     "phone": "808-260-3894",
     "website": "https://glennga.github.io",
-    "summary": "Hello all! I hold a B.S. in Computer Science and a certificate in Mathematical Biology from the University of Hawaii at Manoa. My next endeavor entails pursuing a Ph.D. in Computer Science at the University of California, Irvine this coming Fall.",
+    "summary": "Hello all! I am currently a Computer Science Ph.D. student at the University of California, Irvine with a specialization in Databases and Information Retrieval.",
     "profiles": [
       {
         "network": "github",
@@ -17,7 +17,13 @@
   },
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of California, Irvine, CA",
+      "area": "Computer Science",
+      "studyType": "Doctorate of Philosophy",
+      "startDate": "2019-09-28"
+    },
+    {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science, Mathematical Biology",
       "studyType": "Bachelor of Science, Certificate",
       "startDate": "2016-09-01",
@@ -29,7 +35,7 @@
                   "Programming Language Theory",
                   "Database Systems I-II",
                   "Operating Systems",
-		  "Data Networks",
+        		  "Data Networks",
                   "Algorithms"
       ]
     },
@@ -68,13 +74,13 @@
   ],
   "papers": [
     {
+        "text": "Galvizo G. and Lim L. 2019. <b>An Experimental Survey of Evaluation Strategies for Constellation Queries.<b> In Proceedings of the 31st International Conference on Scientific and Statistical Database Management (SSDBM '19). ACM, New York, NY, USA, 210-213. DOI: https://doi.org/10.1145/3335783.333580"
+    },
+    {
         "text": "Galvizo G. <b>Efficient Parameter Estimation for Human Microsatellite Mutation</b>. Accepted writing for the Mathematical Biology Certificate Committee at the University of Hawaii at Manoa, Nov. 30, 2018."
     },
     {
         "text": "Galvizo G. <b>Efficient Parameter Estimation for Human Microsatellite Mutation</b>. Presented at the University of Hawaii at Manoa Undergraduate Showcase, Honolulu, HI, United States, Dec. 7, 2018; oral presentation."
-    },
-    {
-        "text": "Galvizo G. and Lim L. <b>An Experimental Survey of Evaluation Strategies for Constellation Queries</b>. Submitting for publication." 
     },
     {
         "text": "Galvizo G. <b>Analysis and Optimization of Lost-in-Space Star Identification</b>. Presented at the University of Hawaii at Manoa Undergraduate Showcase, Honolulu, HI, United States, Dec. 8, 2017; oral presentation."
@@ -88,6 +94,33 @@
   ],
   "work": [
      {
+      "company": "Hawaii Space Flight Laboratory",
+      "position": "Software Engineer (previously High Level Software Intern)",
+      "website": "http://www.hsfl.hawaii.edu/",
+      "startDate": "2015-03-01",
+      "endDate": "2019-08-01",
+      "summary": "Contributed software to NMSR, the HSFL star tracker, COSMOS, and most recently the Neutron-1 projects.",
+      "highlights": [
+        "Developed cross-platform memory/load/disk library for COSMOS project.",
+    	"Created COSMOS agents and libraries for star based attitude estimation, and IMU based attitude estimation.",
+        "Optimized and tested motion-tracking and orientation simulating processes for the satellite testbed.",
+        "Implemented time-synchronization protocol across agents in the COSMOS framework."
+      ]
+     },
+     {
+      "company": "Mary, Star of the Sea School",
+      "position": "Information Technology Specialist",
+      "website": "https://www.marystarelementary.com",
+      "startDate": "2019-02-01",
+      "endDate": "2019-08-01",
+      "summary": "Manage and service network, computers, smartboards, and other technology for the entire school.",
+      "highlights": [
+        "Setup remote management of the network, firewall, and access points.",
+        "Organized a better integrated ticketing system at a lower cost to their previous setup.",
+        "Mapped school network and optimized cable flow to and from various endpoints."
+      ]
+     },
+     {
       "company": "Maryknoll School",
       "position": "VEX Robotics Head Coach",
       "startDate": "2016-08-21",
@@ -97,20 +130,6 @@
         "Guide, mentor, and coach elementary to high school students in creating VEX and FRC competition robots.",
         "Created and ran several lectures on the basics of RobotC programming for VEX.",
     	"Students are taught the basics of mechanical design, documentation, C-based programming, game strategy, project management, and teamwork."
-      ]
-    },
-    {
-      "company": "University of Hawaii at Manoa",
-      "position": "Undergraduate Research Opportunity Awardee (Researcher)",
-      "website": "http://manoa.hawaii.edu/undergrad/urop/",
-      "startDate": "2017-08-21",
-      "endDate": "2017-12-08",
-      "summary": "Research and analyze five existing blind star identification algorithms.",
-      "highlights": [
-        "Implemented five different blind star identification methods.",
-        "Implemented a benchmark data generator in Python and C++.",
-        "Created and ran several experiments to test these identification methods.",
-	"Presented work at the 2017 fall UHM Undergraduate Showcase"
       ]
     },
     {
@@ -126,20 +145,6 @@
 	"Automated the development and unattended installation and updates of Windows programs across all lab computers.",
     	"Developed Powershell scripts to automate Active Directory user account renewal and additions."
       ]
-    },
-    {
-      "company": "Hawaii Space Flight Laboratory",
-      "position": "High Level Software Intern",
-      "website": "http://www.hsfl.hawaii.edu/",
-      "startDate": "2015-03-01",
-      "endDate": "2016-08-01",
-      "summary": "Lead High level software student portions for NMSR and star tracker project.",
-      "highlights": [
-        "Managed a Unix Gumstix device for a stationary payload on a sounding rocket.",
-        "Developed cross-platform memory/load/disk library for COSMOS project.",
-    	"Developed COSMOS visualization tools with QT C++ Framework.",
-    	"Created COSMOS agents and libraries for star based attitude estimation, and IMU based attitude estimation."
-      ]
     }
   ],
   "volunteer": [
@@ -149,10 +154,7 @@
       "position": "Referee",
       "startDate": "2014-10-01",
       "endDate": "Present",
-      "summary": "Ensure robotics game is played in fair and consistent manner.",
-      "highlights": [
-        
-      ]
+      "summary": "Ensure robotics game is played in fair and consistent manner."
     },
     {
       "organization": "Arnold Air Society",
@@ -167,26 +169,26 @@
   ],
   "interests": [
     {
-      "name": "databases",
+      "name": "big data engineering",
       "keywords": [
-        "query processing",
-        "distributed and parallel systems",
-	"big data"
+        "distributed systems",
+        "semi-structured data management"
       ]
     },
     {
       "name": "biological modeling",
       "keywords": [
-	"evolutionary biology",
+	    "evolutionary biology",
         "microsatellite DNA",
-	"human history"
+	    "human history"
       ]
     },
     {
       "name": "astrometry",
       "keywords": [
-	"lost-in-space star identification",
-	"attitude determination"
+    	"lost-in-space star identification",
+    	"attitude determination",
+        "astrometric databases"
       ]
     }
   ],
