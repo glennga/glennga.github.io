@@ -6,7 +6,7 @@
     "email": "gjgalvizo@gmail.com",
     "phone": "808-260-3894",
     "website": "https://glennga.github.io",
-    "summary": "Hello all! I am currently a Computer Science Ph.D. student at the University of California, Irvine with a specialization in Databases and Information Retrieval.",
+    "summary": "Hello all! I am currently a Computer Science Ph.D. student at the University of California, Irvine working in the Information Systems Group.",
     "profiles": [
       {
         "network": "github",
@@ -20,7 +20,10 @@
       "institution": "University of California, Irvine, CA",
       "area": "Computer Science",
       "studyType": "Doctorate of Philosophy",
-      "startDate": "2019-09-28"
+      "startDate": "2019-09-28",
+      "courses": ["Principles of Data Management",
+                  "Computer \& Communication Networks"
+      ]
     },
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
@@ -93,6 +96,16 @@
     }
   ],
   "work": [
+     {
+      "company": "University of California, Irvine",
+      "position": "Teaching Assistant",
+      "startDate": "2019-09-01",
+      "summary": "Lead several discussions and open labs for an introductory computer architecture course.",
+      "highlights": [
+          "Discussions were led on the topics of boolean algebra (identities, and later simplication) and ALU design.",
+          "Labs involved problem solving using MIPS assembly."
+      ]
+     },
      {
       "company": "Hawaii Space Flight Laboratory",
       "position": "Software Engineer (previously High Level Software Intern)",
