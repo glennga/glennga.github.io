@@ -6,7 +6,7 @@
     "email": "gjgalvizo@gmail.com",
     "phone": "808-260-3894",
     "website": "https://glennga.github.io",
-    "summary": "Hello all! I am currently a Computer Science Ph.D. student at the University of California, Irvine working in the Information Systems Group.",
+    "summary": "Hello all! I am currently a Computer Science Ph.D. student at the University of California, Irvine working in the Information Systems Group on the AsterixDB project.",
     "profiles": [
       {
         "network": "github",
@@ -20,10 +20,15 @@
       "institution": "University of California, Irvine, CA",
       "area": "Computer Science",
       "studyType": "Doctorate of Philosophy",
-      "startDate": "2019-09-28",
-      "courses": ["Principles of Data Management",
-                  "Computer and Communication Networks"
+      "startDate": "2019-09-28"
       ]
+    },
+    {
+      "institution": "University of California, Irvine, CA",
+      "area": "Computer Science",
+      "studyType": "Masters of Science",
+      "startDate": "2019-09-28",
+      "endDate": "2021-05-28"
     },
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
@@ -31,16 +36,7 @@
       "studyType": "Bachelor of Science, Certificate",
       "startDate": "2016-09-01",
       "endDate": "2018-12-01",
-      "gpa": "3.96",
-      "courses": ["Software Engineering I-II",
-                  "Probabilistic & Deterministic Models",
-                  "Machine Learning Fundamentals",
-                  "Programming Language Theory",
-                  "Database Systems I-II",
-                  "Operating Systems",
-        		  "Data Networks",
-                  "Algorithms"
-      ]
+      "gpa": "3.96"
     },
         {
       "institution": "Leeward Community College, Pearl City, HI",
@@ -48,14 +44,16 @@
       "studyType": "Associate of Arts",
       "startDate": "2014-08-25",
       "endDate": "2015-12-19",
-      "gpa": "4.0",
-      "courses": [ "Introduction to Computer Science I-II", 
-                   "Discrete Mathematics for Computer Science I-II",
-                   "Calculus I-IV"
-      ]
+      "gpa": "4.0"
     }
   ],
   "awards": [
+      {
+        "title": "Hasso Plattner Institute Research in Machine Learning and Data Science Fellowship at UC Irvine",
+        "date": "2021-01-01",
+        "awarder": "Hasso Plattner Institute Research in Machine Learning and Data Science",
+        "summary": "Fellowship funding for research to support adaptive, safe, and human centered artificial intelligence."
+      },
       {
         "title": "Very Large Data Base Scholarship",
         "date": "2018-06-01",
@@ -77,6 +75,9 @@
   ],
   "papers": [
     {
+        "text": "Galvizo G. 2021. <b>On Indexing Multi-Valued Fields in AsterixDB.</b> Master's thesis. University of California, Irvine."
+    },
+    {
         "text": "Galvizo G. and Lim L. 2019. <b>An Experimental Survey of Evaluation Strategies for Constellation Queries.</b> In Proceedings of the 31st International Conference on Scientific and Statistical Database Management (SSDBM '19). ACM, New York, NY, USA, 210-213. DOI: https://doi.org/10.1145/3335783.333580"
     },
     {
@@ -97,13 +98,20 @@
   ],
   "work": [
      {
+      "company": "Couchbase",
+      "position": "Software Engineering R&D Intern",
+      "startDate": "2021-06-21",
+      "summary": "Fine polishing multi-valued indexes in AsterixDB for use in Couchbase Analytics."
+     },
+     {
       "company": "University of California, Irvine",
       "position": "Teaching Assistant",
       "startDate": "2019-09-01",
-      "summary": "Lead several discussions and open labs for an introductory computer architecture course.",
+      "endDate": "2020-12-01",
+      "summary": "Created assignments in a beyond SQL class for Postgres, Cassandra, Couchbase, and Neo4J (Winter 2020). Led discussions and created assignments in an introductory database course (Spring 2020, Fall 2020).",
       "highlights": [
-          "Discussions were led on the topics of boolean algebra (identities, and later simplication) and ALU design.",
-          "Labs involved problem solving using MIPS assembly."
+          "Created datasets and scenarios to extract meaningful information from said datasets.",
+          "Datasets include the Yelp dataset, a homegrown inventory management service, and a homegrown Twitter tagging service."
       ]
      },
      {
@@ -182,26 +190,25 @@
   ],
   "interests": [
     {
+      "name": "graph databases",
+      "keywords": [
+        "graph data model",
+        "large graphs",
+        "neo4j"
+      ]
+    },
+    {
+      "name": "query processing",
+      "keywords": [
+        "query optimization",
+        "query planning"
+      ]
+    },
+    {
       "name": "big data engineering",
       "keywords": [
         "distributed systems",
         "semi-structured data management"
-      ]
-    },
-    {
-      "name": "biological modeling",
-      "keywords": [
-	    "evolutionary biology",
-        "microsatellite DNA",
-	    "human history"
-      ]
-    },
-    {
-      "name": "astrometry",
-      "keywords": [
-    	"lost-in-space star identification",
-    	"attitude determination",
-        "astrometric databases"
       ]
     }
   ],
